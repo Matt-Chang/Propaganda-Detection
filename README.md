@@ -74,6 +74,4 @@
 - Use of BERT for feature extraction with logistic regression.
 - Experimentation with other Transformer family models (e.g., BERT-Large, RoBERTa, GPT).
 - 
-![Uploading Untitled diagram-2024-07-09-024215.png…]()
 
-- 
