@@ -74,4 +74,4 @@
 - Use of BERT for feature extraction with logistic regression.
 - Experimentation with other Transformer family models (e.g., BERT-Large, RoBERTa, GPT).
 - 
-![Example Image](Untitled diagram-2024-07-09-024215.png)
+![Alt text](https://github.com/Matt-Chang/Propaganda-Detection/blob/main/Untitled%20diagram-2024-07-09-024215.png)
